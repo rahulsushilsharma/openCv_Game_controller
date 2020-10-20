@@ -1,2 +1,1 @@
-# openCv_Game_controller
-RITESH JI
+# openCv_Game_controller computer vision
